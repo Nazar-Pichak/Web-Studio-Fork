@@ -1024,6 +1024,7 @@ footer {
   .our-team-list {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
   }
   .our-team-cards:nth-child(odd) {
     margin-left: 82px;
