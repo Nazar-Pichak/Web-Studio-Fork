@@ -574,7 +574,7 @@ textarea::placeholder {
   line-height: 1.5;
   font-weight: 600;
   color: var(--text);
-  width: 356px;
+  /* width: 356px; */
 }
 
 .what-we-do {
