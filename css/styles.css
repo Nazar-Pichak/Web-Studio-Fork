@@ -893,9 +893,7 @@ footer {
 .filter-buttons {
   margin-right: 24px;
 }
-.first-button {
-  margin-left: 271px;
-}
+
 .text-buttons {
   display: inline-block;
   padding: 4px 8px;
@@ -1061,20 +1059,26 @@ footer {
 
   /* __________________MOBILE - PORTFOLIO______________ */
 .first-button{
-  margin-left: 0;
+
   margin-bottom: 16px;
 }
 .filters{
   margin: 48px 0;
 }
 .card-img{
-  width: 396px;
+  width: 100%;
 }
-.portfolio-card{
-  width: 396px;
-}
+
 .card-list{
   padding-bottom: 48px;
+}
+.card-list {
+
+  row-gap: 72px;
+
+}
+.portfolio-card{
+  width: 95%
 }
 }
 
@@ -1169,7 +1173,16 @@ footer {
 
 
 
-
+.filters{
+  margin: 64px 0;
+      justify-content: center;
+}
+.card-img{
+  width: 356px;
+}
+.card-list{
+  padding-bottom: 96px;
+}
 }
 
 @media (min-width: 768px) and (max-width: 1199px) {
