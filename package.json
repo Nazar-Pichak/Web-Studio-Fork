@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "cssnano": "^7.0.6",
+    "postcss": "^8.5.3",
+    "postcss-cli": "^11.0.1",
+    "postcss-pxtorem": "^6.1.0"
+  },
+  "scripts": {
+    "build:css": "node process-css.js"
+  }
+}
