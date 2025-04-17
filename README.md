@@ -45,22 +45,27 @@ Thank you for considering contributing to this project! To ensure a smooth colla
     ```bash
     git checkout -b feature/your-feature-name
     ```
-4. **Install libraries**: Ensure you have installed [Node]() and [npm]() on your machine.  
+4. **Install libraries into root folder**: Ensure you have installed [Node](https://nodejs.org/en) and [npm](https://www.npmjs.com/) on your machine.  
 
     ```bash
     npm i
     ```
 5. **Make Changes**: Implement your changes and ensure your code follows the project's coding standards.
-6. **Test Your Changes**: Test your changes thoroughly to ensure they work as expected.
-7. **Commit Your Changes**: Commit your changes with a clear and descriptive commit message:
+
+6. **Build CSS**: Also don't forget to build CSS file and bind minified file to HTML pages.
+    ```bash
+    npm run build:css
+    ```
+7. **Test Your Changes**: Test your changes thoroughly to ensure they work as expected.
+8. **Commit Your Changes**: Commit your changes with a clear and descriptive commit message:
     ```bash
     git commit -m "Add description of your changes"
     ```
-8. **Push to Your Fork**: Push your changes to your forked repository.
+9. **Push to Your Fork**: Push your changes to your forked repository.
     ```bash
     git push origin feature/your-feature-name
     ```
-9. **Create a Pull Request**: Open a pull request to the main repository. Provide a detailed description of your changes and the problem they solve.
+10. **Create a Pull Request**: Open a pull request to the main repository. Provide a detailed description of your changes and the problem they solve.
 
 
 We look forward to your contributions!
