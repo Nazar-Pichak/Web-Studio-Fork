@@ -23,7 +23,7 @@ Author - [Serhii Andriienko](https://github.com/SerhiiAndriienko)
 
 - Improved responsiveness for mobile devices.
 - Fixed layout issues in the header section.
-- Minigiyed CSS styles for better cross-browser compatibility.
+- Minifiyed CSS styles for better cross-browser compatibility.
 - Added comments to improve code readability.
 
 Changes iniciator - [Nazar Pichak](https://github.com/Nazar-Pichak)
