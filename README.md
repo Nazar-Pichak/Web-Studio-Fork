@@ -26,7 +26,7 @@ Author - [Serhii Andriienko](https://github.com/SerhiiAndriienko)
 - Minifiyed CSS styles for better cross-browser compatibility.
 - Added comments to improve code readability.
 
-Changes iniciator - [Nazar Pichak](https://github.com/Nazar-Pichak)
+Changes initiator - [Nazar Pichak](https://github.com/Nazar-Pichak)
 
 ### Version 1.0.3
 .............
